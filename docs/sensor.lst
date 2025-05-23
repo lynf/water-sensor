@@ -1,0 +1,87 @@
+UF0 listing:
+	000  TQ2.  	008  AND  	016  OR  	024  .S0  	
+	001  .TG0  	009  .Y3  	017  DUP  	025  TQ0.  	
+	002  TQ2.  	010  TQ1.  	018  V0.  	026  !  	
+	003  TGQ0.  	011  TQ2.  	019  AND  	027  DUP  	
+	004  2DUP  	012  XOR  	020  .R0  	028  DUP  	
+	005  AND  	013  .V0  	021  !  	029  .TK0  	
+	006  .Y2  	014  A0.  	022  V0.  	030  .TK1  	
+	007  !  	015  A1.  	023  AND  	031  .TK2  	
+
+
+	032  Q0.  	040  NOP  	048  NOP  	056  NOP  	
+	033  .Y7  	041  NOP  	049  NOP  	057  NOP  	
+	034  KEY  	042  NOP  	050  NOP  	058  NOP  	
+	035  END  	043  NOP  	051  NOP  	059  NOP  	
+	036  NOP  	044  NOP  	052  NOP  	060  NOP  	
+	037  NOP  	045  NOP  	053  NOP  	061  NOP  	
+	038  NOP  	046  NOP  	054  NOP  	062  NOP  	
+	039  NOP  	047  NOP  	055  NOP  	063  NOP  	
+
+
+	064  NOP  	072  NOP  	080  NOP  	088  NOP  	
+	065  NOP  	073  NOP  	081  NOP  	089  NOP  	
+	066  NOP  	074  NOP  	082  NOP  	090  NOP  	
+	067  NOP  	075  NOP  	083  NOP  	091  NOP  	
+	068  NOP  	076  NOP  	084  NOP  	092  NOP  	
+	069  NOP  	077  NOP  	085  NOP  	093  NOP  	
+	070  NOP  	078  NOP  	086  NOP  	094  NOP  	
+	071  NOP  	079  NOP  	087  NOP  	095  NOP  	
+
+
+	096  NOP  	104  NOP  	112  NOP  	120  NOP  	
+	097  NOP  	105  NOP  	113  NOP  	121  NOP  	
+	098  NOP  	106  NOP  	114  NOP  	122  NOP  	
+	099  NOP  	107  NOP  	115  NOP  	123  NOP  	
+	100  NOP  	108  NOP  	116  NOP  	124  NOP  	
+	101  NOP  	109  NOP  	117  NOP  	125  NOP  	
+	102  NOP  	110  NOP  	118  NOP  	126  NOP  	
+	103  NOP  	111  NOP  	119  NOP  	127  NOP  	
+
+
+	128  NOP  	136  NOP  	144  NOP  	152  NOP  	
+	129  NOP  	137  NOP  	145  NOP  	153  NOP  	
+	130  NOP  	138  NOP  	146  NOP  	154  NOP  	
+	131  NOP  	139  NOP  	147  NOP  	155  NOP  	
+	132  NOP  	140  NOP  	148  NOP  	156  NOP  	
+	133  NOP  	141  NOP  	149  NOP  	157  NOP  	
+	134  NOP  	142  NOP  	150  NOP  	158  NOP  	
+	135  NOP  	143  NOP  	151  NOP  	159  NOP  	
+
+
+	160  NOP  	168  NOP  	176  NOP  	184  NOP  	
+	161  NOP  	169  NOP  	177  NOP  	185  NOP  	
+	162  NOP  	170  NOP  	178  NOP  	186  NOP  	
+	163  NOP  	171  NOP  	179  NOP  	187  NOP  	
+	164  NOP  	172  NOP  	180  NOP  	188  NOP  	
+	165  NOP  	173  NOP  	181  NOP  	189  NOP  	
+	166  NOP  	174  NOP  	182  NOP  	190  NOP  	
+	167  NOP  	175  NOP  	183  NOP  	191  NOP  	
+
+
+	192  NOP  	200  NOP  	208  NOP  	216  NOP  	
+	193  NOP  	201  NOP  	209  NOP  	217  NOP  	
+	194  NOP  	202  NOP  	210  NOP  	218  NOP  	
+	195  NOP  	203  NOP  	211  NOP  	219  NOP  	
+	196  NOP  	204  NOP  	212  NOP  	220  NOP  	
+	197  NOP  	205  NOP  	213  NOP  	221  NOP  	
+	198  NOP  	206  NOP  	214  NOP  	222  NOP  	
+	199  NOP  	207  NOP  	215  NOP  	223  NOP  	
+
+
+	224  NOP  	232  NOP  	240  NOP  	248  NOP  	
+	225  NOP  	233  NOP  	241  NOP  	249  NOP  	
+	226  NOP  	234  NOP  	242  NOP  	250  NOP  	
+	227  NOP  	235  NOP  	243  NOP  	251  NOP  	
+	228  NOP  	236  NOP  	244  NOP  	252  NOP  	
+	229  NOP  	237  NOP  	245  NOP  	253  NOP  	
+	230  NOP  	238  NOP  	246  NOP  	254  NOP  	
+	231  NOP  	239  NOP  	247  NOP  	255  NOP  	
+
+
+Timer settings:
+	T0      T1      T2      T3      T4      T5      T6      T7
+	003	001	002	000	000	000	000	000	
+
+	T8      T9      TA      TB      TC      TD      TE      TF
+	000	000	000	000	000	000	000	000	
